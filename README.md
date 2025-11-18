@@ -1,7 +1,7 @@
 [![MasterHead](Banner.png)]
 <h1 align="center">Hi 👋, I'm Faheem Ahmad Khan</h1>
 <h3 align="center">A passionate frontend and Devops Developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="AnimatedGithub.png"
+<img align="right" alt="Coding" width="400" src="Animated Github.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faheemahmadkhan&label=Profile%20views&color=0e75b6&style=flat" alt="faheemahmadkhan" /> </p>
 
