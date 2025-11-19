@@ -1,4 +1,4 @@
-[![MasterHead](Banner.png)]
+![MasterHead](Banner.png)
 <h1 align="center">Hi 👋, I'm Faheem Ahmad Khan</h1>
 <h3 align="center">A passionate frontend and Devops Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="Animated Github.png"
